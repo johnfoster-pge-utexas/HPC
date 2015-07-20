@@ -95,7 +95,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/syllabus/", "Syllabus"),
-        ("/course-mat/", "Course Materials"),
+        ("/video-lectures/", "Video Lectures"),
     ),
 }
 
@@ -168,7 +168,7 @@ PAGES = (
     ("stories/*.ipynb", "stories", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
-    ("course-mat/course-mat.md", "course-mat", "notitle.tmpl"),
+    ("video-lectures/video-lectures.md", "video-lectures", "notitle.tmpl"),
     ("syllabus/syllabus.md", "syllabus", "notitle.tmpl"),
 )
 
