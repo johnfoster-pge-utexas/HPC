@@ -36,26 +36,31 @@
 
 As engineers we often encounter problems too large or too difficult to solve in a conventional manner; therefore, we resort to using the computer to do the hard work for us. These types of problems include problems in computational mechanics, optimization, and statistical analysis. Sometimes, these problems can become so large that the computational expense overwhelms our desktop workstations and we seek out high-performance computing (HPC) resources or HPC clusters to perform the job. These HPC machines are almost always computers that run a UNIX/Linux style operating system and include different parallelization paradigms such as MPI, OpenMPI, OpenCL, CUDA, etc. This course will introduce the student to the UNIX environment in a scientific computing context and include instruction on several import UNIX applications that will make them more productive users. We will also cover, at an introductory level, the differences between these parallelization styles of computing and develop a basic working understanding of how to utilize the application programming interfaces (APIs) in scientific applications.
 
+
 **Course Outline:**
 
-|Week             |Topic             |Specifics                                                                         |
-|:------------|:---------------------|:---------------------------------------------------------------------------------|
-| Jan. 14,16   | Introduction to HPC and UNIX  | Syllabus, Codecademy, TACC, basic commands                            |
-| Jan. 21,23   | Introduction to UNIX          | File system, permissions, regular expressions                          |
-| Jan. 28,30   | Editors              | vi,emacs                                                                        |
-| Feb. 4,6     | Intermediate UNIX	 | grep, sed, awk, bash scripting, Python scripting for os, customizing environment |
-| Feb. 11,13   | Managing Projects	 | building code, git, cmake                                                        |
-| Feb. 18,20   | Git and Github      | workflows for large projects and collaboration
-| Feb. 25,27   | Scientific Python	 | numpy, scipy                                                                     | 
-| Mar. 4,6     | Scientific Python	 | matplotlib, LaTeX integration
-| Mar. 11,13   | Spring Break        | N/A                                                                              |
-| Mar. 18,20   | Scientific Python   | Calling other languages from Python, ctypes, SWIG                                |
-| Mar. 25,27   | Parallel Programming | MPI, cluster job submission                                                     |
-| Apr. 1,3     | Parallel Programming | MPI, PyTrilinos                                                                 |
-| Apr. 8,10    | Parallel Programming | PyTrilinos                                                                      |
-| Apr. 15,17   | Parallel Programming | PyTrilinos                                                                      |
-| Apr. 22,25   | Parallel Programming | IPython, Jupyter notebook                                                       |
-| Apr. 29      | Parallel Programming | GPGPU, PyCuda                                                                   |
+TBD
+<!--
+| Week | Topic | Specifics |
+|------|-------|-----------|
+| Jan. 14,16 | Introduction to HPC and UNIX | Syllabus, Codecademy, TACC, basic commands |
+| Jan. 21,23 | Introduction to UNIX | File system, permissions, regular expressions |
+| Jan. 28,30 | Editors | vi,emacs |
+| Feb. 4,6   | Intermediate UNIX | grep, sed, awk, bash scripting, Python scripting for os, customizing environment |
+| Feb. 11,13 | Managing Projects | building code, git, cmake |
+| Feb. 18,20 | Git and Github | workflows for large projects and collaboration |
+| Feb. 25,27 | Scientific Python | numpy, scipy | 
+| Mar. 4,6   | Scientific Python | matplotlib, LaTeX integration |
+| Mar. 11,13 | Spring Break | N/A |
+| Mar. 18,20 | Scientific Python | Calling other languages from Python, ctypes, SWIG |
+| Mar. 25,27 | Parallel Programming | MPI, cluster job submission |
+| Apr. 1,3   | Parallel Programming | MPI, PyTrilinos |
+| Apr. 8,10  | Parallel Programming | PyTrilinos |
+| Apr. 15,17 | Parallel Programming | PyTrilinos |
+| Apr. 22,25 | Parallel Programming | IPython, Jupyter notebook |
+| Apr. 29    | Parallel Programming | GPGPU, PyCuda |
+-->
+
 
 Additional topics if time allows: Other scientific languages: Fortran, C, C++, Numerical Libraries: PETSc, FEA tools: Cubit, DAKOTA
 
