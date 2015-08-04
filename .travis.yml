@@ -1,12 +1,4 @@
 language: python
-before_install:
-- export PATH="$HOME/pandoc:$PATH"
-- mkdir $HOME/pandoc
-- curl -O https://s3.amazonaws.com/rstudio-buildtools/pandoc-1.12.3.zip
-- unzip -j pandoc-1.12.3.zip pandoc-1.12.3/linux/debian/x86_64/pandoc -d $HOME/pandoc
-- chmod +x $HOME/pandoc/pandoc
-- pandoc --version
-- rm pandoc-1.12.3.zip
 python:
 - '2.7'
 install:
@@ -18,10 +10,10 @@ after_success:
     - git config --global user.email ${GH_EMAIL}
     - git config --global user.name ${GH_NAME}
     # Commit and Push the Changes
-    - git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/johnfoster-pge-utexas/PGE383-AdvGeomechanics gh-pages > /dev/null
+    - git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/johnfoster-pge-utexas/HPC gh-pages > /dev/null
     - cd gh-pages
-    - cp -Rf $HOME/build/johnfoster-pge-utexas/PGE383-AdvGeomechanics/output/* .
+    - cp -Rf $HOME/build/johnfoster-pge-utexas/HPC/output/* .
     - git add -A
     - git commit -m "Travis CI autocommit from travis build $TRAVIS_BUILD_NUMBER"
     - git push -fq origin gh-pages > /dev/null
-    - git push -fq https://${GH_TOKEN}@github.com/johntfoster/PGE383-AdvGeomechanics gh-pages
+    - git push -fq https://${GH_TOKEN}@github.com/johntfoster/HPC gh-pages
