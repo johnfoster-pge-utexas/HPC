@@ -38,109 +38,109 @@ and any other reference material.
 
 [Basic UNIX Commands - grep](https://youtu.be/2MAhkexkALI) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-grep.pdf))
 
-[Basic UNIX Commands - sed](http://idl.utsa.edu/me5013/basic-unix-commands-sed/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-sed.pdf))
+[Basic UNIX Commands - sed](https://youtu.be/NxCl2RxhCIE) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-sed.pdf))
 
-[Basic UNIX Commands - awk](http://idl.utsa.edu/me5013/basic-unix-commands-awk/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-awk.pdf">PDF Slides</a>))
+[Basic UNIX Commands - awk](https://youtu.be/DKylmQ2MB_Y) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-awk.pdf">PDF Slides</a>))
 
 
-**Remote Linux Cluster**j
+**Remote Linux Cluster**
 
-[Introduction to the Shamu Sun Linux Cluster](http://idl.utsa.edu/me5013/introduction-to-the-shamu-sun-linux-cluster/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/08/IntroToShamu.pdf))
+[Introduction to the Shamu Sun Linux Cluster](https://youtu.be/v-f2WIs5ShI) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/08/IntroToShamu.pdf))
 
-[Transferring Files](http://idl.utsa.edu/me5013/transfering-files/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/TransferingFiles.pdf))
+[Transferring Files](https://youtu.be/ArLRgnaGFdg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/TransferingFiles.pdf))
 
-[Job Management on Shamu](http://idl.utsa.edu/me5013/job-management-on-shamu/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/JobManagement.pdf))
+[Job Management on Shamu](https://youtu.be/Gtn2GgA4V5Q) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/JobManagement.pdf))
 
 
 **UNIX editors**
 
-[vi/vim Editor](http://idl.utsa.edu/me5013/vivim-editor/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/vi.pdf))
+[vi/vim Editor](https://youtu.be/gaX57x-vK7k) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/vi.pdf))
 
-[emacs Editor](http://idl.utsa.edu/me5013/emacs-editor/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/emacs.pdf))
+[emacs Editor](https://youtu.be/Z3gIM-7Z3Hs) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/emacs.pdf))
 
-[Customizing vim](http://idl.utsa.edu/me5013/customizing-vim/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingVim.pdf))
+[Customizing vim](https://youtu.be/7o9qX2bnybA) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingVim.pdf))
 
-[Customizing emacs](http://idl.utsa.edu/me5013/customizing-emacs/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingEmacs.pdf))
+[Customizing emacs](https://youtu.be/e9l60X2sT20) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingEmacs.pdf))
 
 
 **Bash Shell**
 
-[The Bash Shell](http://idl.utsa.edu/me5013/the-bash-shell/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BashShell.pdf))
+[The Bash Shell](https://youtu.be/79Oh-7KNP2s) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BashShell.pdf))
 
-[Customizing Bash](http://idl.utsa.edu/me5013/customizing-bash/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingBash.pdf))
+[Customizing Bash](https://youtu.be/mMcYzQkQ3b0) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingBash.pdf))
 
 
 **Version Control**
 
-[Git Version Control](http://idl.utsa.edu/me5013/git-version-control/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/git.pdf))
+[Git Version Control](https://youtu.be/LO8StVJDW-Q) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/git.pdf))
 
 
 **Building Code**
 
-[Building Code](http://idl.utsa.edu/me5013/building-code/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/BuildingCode.pdf))
+[Building Code](https://youtu.be/KhxpkiiyIwE) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/BuildingCode.pdf))
 
-[CMake](http://idl.utsa.edu/me5013/cmake/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/09/CMake.pdf))
+[CMake](https://youtu.be/T4BiC24Y16Y) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/09/CMake.pdf))
 
 
 **Plotting**
 
-[Gnuplot Introduction](http://idl.utsa.edu/me5013/gnuplot-introduction/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/GnuplotIntro.pdf))
+[Gnuplot Introduction](https://youtu.be/h2uiyJO6uHg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/GnuplotIntro.pdf))
 
-[Gnuplot Terminals and LaTeX Integration](http://idl.utsa.edu/me5013/gnuplot-terminals-and-latex-integration/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/GnuplotTerminals.pdf))
+[Gnuplot Terminals and LaTeX Integration](https://youtu.be/aiCZh-iLdsE) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/GnuplotTerminals.pdf))
 
 
 **Python**
 
-[Python scripting for the OS](http://idl.utsa.edu/me5013/python-scripting-for-the-os/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/PythonOS.pdf))
+[Python scripting for the OS](https://youtu.be/yHO8hdqzKw8) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/PythonOS.pdf))
 
-[numpy - Numerical Python](http://idl.utsa.edu/me5013/numpy-numerical-python/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/numpy.pdf))
+[numpy - Numerical Python](https://youtu.be/-p4CVtPZoPo) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/numpy.pdf))
 
-[SciPy - Scientific Toolkit](http://idl.utsa.edu/me5013/scipy-scientific-toolkit/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/scipy.pdf))
+[SciPy - Scientific Toolkit](https://youtu.be/MtdLd2lrvag) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/scipy.pdf))
 
-[Python Virtual Environments](http://idl.utsa.edu/me5013/python-virtual-environments/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/pythonVENV.pdf))
+[Python Virtual Environments](https://youtu.be/iiNdFuVYWu0) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/pythonVENV.pdf))
 
 
 **Python Plotting**
 
-[Gnuplot.py](http://idl.utsa.edu/me5013/gnuplot-py/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/gnuplot-py.pdf))
+[Gnuplot.py](https://youtu.be/b_y_cLX526c) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/gnuplot-py.pdf))
 
 [Matplotlib](http://idl.utsa.edu/me5013/matplotlib/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/matplotlib.pdf))
 
 
 **Using Python with Compiled Libraries**
 
-[ctypes](http://idl.utsa.edu/me5013/ctypes/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/ctypes.pdf))
+[ctypes](https://youtu.be/76psQH3W7WU) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/ctypes.pdf))
 
-[SWIG](http://idl.utsa.edu/me5013/swig/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/swig.pdf))
+[SWIG](https://youtu.be/g8--GrdlqGw) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/swig.pdf))
 
 **Python Parallel Programming (MPI4Py)**
 
-[Introduction to Parallel Programming](http://idl.utsa.edu/me5013/447-2/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/ParallelProgramming.pdf))
+[Introduction to Parallel Programming](https://youtu.be/ZolH7v8kvI8) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/ParallelProgramming.pdf))
 
-[Introduction to MPI](http://idl.utsa.edu/me5013/introduction-to-mpi/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/MPI.pdf))
+[Introduction to MPI](https://youtu.be/Udn9wmmb9YY) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/MPI.pdf))
 
 
 **Python Parallel Programming (PyTrilinos)**
 
-[Trilinos & PyTrilinos: An Overview](http://idl.utsa.edu/me5013/trilinos-pytrilinos-an-overview/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/TrilinosPyTrilinosOverview1.pdf))
+[Trilinos & PyTrilinos: An Overview](https://youtu.be/EXc48sLAEQ0) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/TrilinosPyTrilinosOverview1.pdf))
 
-[PyTrilinos: Epetra Maps & Vectors](http://idl.utsa.edu/me5013/pytrilinos-epetra-maps-vectors/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/EpetraMapsVectors1.pdf))
+[PyTrilinos: Epetra Maps & Vectors](https://youtu.be/5PjoY5QtgPg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/EpetraMapsVectors1.pdf))
 
-[PyTrilinos: Matrices, Graphs, & Extensions](http://idl.utsa.edu/me5013/pytrilinos-epetra-matrices-graphs-extensions/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/EpetraMatrixGraphExt.pdf))
+[PyTrilinos: Matrices, Graphs, & Extensions](https://youtu.be/Vyxi10I-QWQ) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/EpetraMatrixGraphExt.pdf))
 
-[PyTrilinos: Isoroppia & Importers/Exporters](http://idl.utsa.edu/me5013/pytrilinos-isorropia-importersexporters/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/IsorropiaImportExport.pdf))
+[PyTrilinos: Isoroppia & Importers/Exporters](https://youtu.be/i6JXviA_aJs) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/IsorropiaImportExport.pdf))
 
-[PyTrilinos: AztecOO](http://idl.utsa.edu/me5013/pytrilinos-aztecoo/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/AztecOO.pdf))
+[PyTrilinos: AztecOO](https://youtu.be/sHBhCVmJ0p8) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/AztecOO.pdf))
 
 
 **Interactive Parallel Programming (IPython)**
 
-[Parallel Interactivity Debugging with IPython](http://idl.utsa.edu/me5013/parallel-debugging-and-interactivity-with-ipython/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/ParallelDebugging.pdf))
+[Parallel Interactivity Debugging with IPython](https://youtu.be/7OKXS5n-k08) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/ParallelDebugging.pdf))
 
-[PyTrilinos & IPython (Jupyter) Notebook](http://idl.utsa.edu/me5013/pytrilinos-ipython-notebook) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/12/PyTrilinosIPythonNotebook.pdf))
+[PyTrilinos & IPython (Jupyter) Notebook](https://youtu.be/i7dyCZNAXDY) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/12/PyTrilinosIPythonNotebook.pdf))
 
 
 **GPGPU Programming (PyCuda)**
 
-[GPU Programming with PyCUDA](http://idl.utsa.edu/me5013/gpu-programming-with-pycuda/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/12/PyCUDA.pdf))
+[GPU Programming with PyCUDA](https://youtu.be/LumJX2gyX9k) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/12/PyCUDA.pdf))
 
