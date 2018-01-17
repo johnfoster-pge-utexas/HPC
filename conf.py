@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "John T. Foster"  # (translatable)
-BLOG_TITLE = "Introduction to High Performance Computing"  # (translatable)
+BLOG_TITLE = "High Performance Computing for Engineers"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
 #SITE_URL = "https://johntfoster.github.com/PGE383-AdvGeomechanics/"
@@ -26,7 +26,7 @@ SITE_URL = "/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "jfoster@austin.utexas.edu"
+BLOG_EMAIL = "john.foster@utexas.edu"
 BLOG_DESCRIPTION = "Course webpage"  # (translatable)
 
 # Nikola is multilingual!
@@ -95,7 +95,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/syllabus/", "Syllabus"),
-        ("/video-lectures/", "Video Lectures"),
+        ("/course-mat/", "Course Materials"),
     ),
 }
 
@@ -168,14 +168,14 @@ PAGES = (
     ("stories/*.ipynb", "stories", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
-    ("video-lectures/video-lectures.md", "video-lectures", "notitle.tmpl"),
+    ("course-mat/course-mat.md", "course-mat", "notitle.tmpl"),
     ("syllabus/syllabus.md", "syllabus", "notitle.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-FILES_FOLDERS = {"files": "files", "notes": "notes",}
+FILES_FOLDERS = {"files": "files", "notes": "notes", "slides" : "slides",}
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -569,7 +569,7 @@ STRIP_INDEXES = False
 # done in the code, hope you don't mind ;-)
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
 #       with the MarkdownExtension class and should not be added here.
-# MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
+MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'tables']
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
