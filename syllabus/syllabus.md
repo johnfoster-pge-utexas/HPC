@@ -28,6 +28,7 @@ As engineers we often encounter problems too large or too difficult to solve in 
 
 **Outline:** Below is a general outline of what I intend to cover in the course.  This is subject to change based on the needs and preparation of the students in the class.  Any updates will be posted as they occur.  
 
+
 | Week | Topic | Specifics |
 |------|-------|-----------|
 | Jan. 17 | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Cloud9 |
@@ -46,6 +47,7 @@ As engineers we often encounter problems too large or too difficult to solve in 
 | Apr. 16,18 | Parallel Programming | PyTrilinos |
 | Apr. 23,26 | Parallel Programming | IPython, Jupyter notebook |
 | Apr. 30,May 2    | Parallel Programming | GPGPU, PyCuda |
+
 
 Additional topics if time allows: Other scientific languages: C/C++
 
