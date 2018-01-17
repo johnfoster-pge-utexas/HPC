@@ -35,7 +35,7 @@ As engineers we often encounter problems too large or too difficult to solve in 
 | Jan. 22,24 | Git and Github |  |
 | Jan. 29, 31 | Introduction to UNIX | File system, permissions, regular expressions |
 | Feb. 5,7 | Editors | vi, emacs |
-| Feb. 12,14   | Intermediate UNIX | grep, sed, awk, bash scripting, Python scripting for os, customizing environment |
+| Feb. 12,14  | Intermediate UNIX | grep, sed, awk, bash scripting, Python scripting for os, customizing environment |
 | Feb. 19,21 | Managing Projects | building code, git, cmake |
 | Feb. 26,28 | Scientific Python | numpy, scipy | 
 | Mar. 5,7   | Scientific Python | matplotlib, LaTeX integration |
@@ -46,7 +46,7 @@ As engineers we often encounter problems too large or too difficult to solve in 
 | Apr. 9,11  | Parallel Programming | PyTrilinos |
 | Apr. 16,18 | Parallel Programming | PyTrilinos |
 | Apr. 23,26 | Parallel Programming | IPython, Jupyter notebook |
-| Apr. 30,May 2    | Parallel Programming | GPGPU, PyCuda |
+| Apr. 30,May 2 | Parallel Programming | GPGPU, PyCuda |
 
 
 Additional topics if time allows: Other scientific languages: C/C++
@@ -63,6 +63,7 @@ Additional topics if time allows: Other scientific languages: C/C++
 
 
 **Grade Assignment**
+
 
 |Range|Grade|
 |-|-|
