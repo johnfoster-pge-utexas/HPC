@@ -10,9 +10,9 @@ and any other reference material.
 
 ## Video Lectures and "Live Slides"
 
-Click on the button below to launch an index of all video lectures for the course and their corresponding slides.  The slide are launched in a "live" environment, i.e. the code cells are executable.
+Click on the button below to launch an index of all video lectures for the course and their corresponding slides.  The slides are launched in a "live" environment, i.e. the code cells are executable.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=index-rise.ipynb)
+<a href="https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=index-rise.ipynb" target="_blank"><img=https://mybinder.org/badge.svg"></a>
 
 
 ## Old Reference Material
