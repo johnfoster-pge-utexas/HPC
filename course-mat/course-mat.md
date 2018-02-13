@@ -8,141 +8,147 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures,
 and any other reference material.
 
+## Video Lectures and "Live Slides"
+
+Click on the button below to launch an index of all video lectures for the course and their corresponding slides.  The slide are launched in a "live" environment, i.e. the code cells are executable.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=index-rise.ipynb)
+
 
 ## Old Reference Material
 
 **Basic Unix**
 
-[Introduction to UNIX and UNIX-like operating systems](https://youtu.be/ZrA24Nvc9DM) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/08/IntoToUnix.pdf))
+[Introduction to UNIX and UNIX-like operating systems](https://youtu.be/ZrA24Nvc9DM)
 
-[Basic UNIX Commands - Users](https://youtu.be/MTmco9vO1II) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/08/BasicCommands-UsersSystem.pdf))
+[Basic UNIX Commands - Users](https://youtu.be/MTmco9vO1II)
 
-[Basic UNIX Commands - File System](https://youtu.be/7RsS10bpLQg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/08/BasicCommands-FileSystem.pdf))
+[Basic UNIX Commands - File System](https://youtu.be/7RsS10bpLQg)
 
-[Basic UNIX Commands - File Content Handling](https://youtu.be/7RsS10bpLQg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-FileContentHandling.pdf))
+[Basic UNIX Commands - File Content Handling](https://youtu.be/7RsS10bpLQg)
 
-[Basic UNIX Commands - Archiving](https://youtu.be/zpDfnNnJXfA) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-Archiving.pdf))
+[Basic UNIX Commands - Archiving](https://youtu.be/zpDfnNnJXfA)
 
-[Basic UNIX Commands - Pipes and Redirects](https://youtu.be/raGKfLdae_c) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-PipesRedirects.pdf))
+[Basic UNIX Commands - Pipes and Redirects](https://youtu.be/raGKfLdae_c)
 
-[Basic UNIX Commands - Process Commands](https://youtu.be/fFwSwesFG9o) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-ProcessCommands.pdf))
+[Basic UNIX Commands - Process Commands](https://youtu.be/fFwSwesFG9o)
 
-[Basic UNIX Commands - File Attributes](https://youtu.be/7RsS10bpLQg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-FileAttributes.pdf))
+[Basic UNIX Commands - File Attributes](https://youtu.be/7RsS10bpLQg)
 
-[Basic UNIX Commands - Find](https://youtu.be/z_Dh10l4KYc) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-Find1.pdf))
+[Basic UNIX Commands - Find](https://youtu.be/z_Dh10l4KYc)
 
-[GNU Screen](https://youtu.be/LRLlsOZDX4k) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/GNUScreen.pdf))
+[GNU Screen](https://youtu.be/LRLlsOZDX4k)
 
 
 **Intermediate UNIX**
 
-[Basic UNIX Commands - Regular Expressions](https://youtu.be/yhX3Ud4lrVk) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-RegularExpressions.pdf))
+[Basic UNIX Commands - Regular Expressions](https://youtu.be/yhX3Ud4lrVk)
 
-[Basic UNIX Commands - grep](https://youtu.be/2MAhkexkALI) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-grep.pdf))
+[Basic UNIX Commands - grep](https://youtu.be/2MAhkexkALI)
 
-[Basic UNIX Commands - sed](https://youtu.be/NxCl2RxhCIE) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-sed.pdf))
+[Basic UNIX Commands - sed](https://youtu.be/NxCl2RxhCIE)
 
-[Basic UNIX Commands - awk](https://youtu.be/DKylmQ2MB_Y) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BasicCommands-awk.pdf">PDF Slides</a>))
+[Basic UNIX Commands - awk](https://youtu.be/DKylmQ2MB_Y)
 
 
 **Remote Linux Cluster**
 
-[Introduction to the Shamu Sun Linux Cluster](https://youtu.be/v-f2WIs5ShI) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/08/IntroToShamu.pdf))
+[Introduction to the Shamu Sun Linux Cluster](https://youtu.be/v-f2WIs5ShI)
 
-[Transferring Files](https://youtu.be/ArLRgnaGFdg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/TransferingFiles.pdf))
+[Transferring Files](https://youtu.be/ArLRgnaGFdg)
 
-[Job Management on Shamu](https://youtu.be/Gtn2GgA4V5Q) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/JobManagement.pdf))
+[Job Management on Shamu](https://youtu.be/Gtn2GgA4V5Q)
 
 
 **UNIX editors**
 
-[vi/vim Editor](https://youtu.be/gaX57x-vK7k) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/vi.pdf))
+[vi/vim Editor](https://youtu.be/gaX57x-vK7k)
 
-[emacs Editor](https://youtu.be/Z3gIM-7Z3Hs) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/emacs.pdf))
+[emacs Editor](https://youtu.be/Z3gIM-7Z3Hs)
 
-[Customizing vim](https://youtu.be/7o9qX2bnybA) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingVim.pdf))
+[Customizing vim](https://youtu.be/7o9qX2bnybA)
 
-[Customizing emacs](https://youtu.be/e9l60X2sT20) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingEmacs.pdf))
+[Customizing emacs](https://youtu.be/e9l60X2sT20)
 
 
 **Bash Shell**
 
-[The Bash Shell](https://youtu.be/79Oh-7KNP2s) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/BashShell.pdf))
+[The Bash Shell](https://youtu.be/79Oh-7KNP2s)
 
-[Customizing Bash](https://youtu.be/mMcYzQkQ3b0) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/09/CustomizingBash.pdf))
+[Customizing Bash](https://youtu.be/mMcYzQkQ3b0)
 
 
 **Version Control**
 
-[Git Version Control](https://youtu.be/LO8StVJDW-Q) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/git.pdf))
+[Git Version Control](https://youtu.be/LO8StVJDW-Q)
 
 
 **Building Code**
 
-[Building Code](https://youtu.be/KhxpkiiyIwE) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/BuildingCode.pdf))
+[Building Code](https://youtu.be/KhxpkiiyIwE)
 
-[CMake](https://youtu.be/T4BiC24Y16Y) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/09/CMake.pdf))
+[CMake](https://youtu.be/T4BiC24Y16Y)
 
 
 **Plotting**
 
-[Gnuplot Introduction](https://youtu.be/h2uiyJO6uHg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/GnuplotIntro.pdf))
+[Gnuplot Introduction](https://youtu.be/h2uiyJO6uHg)
 
-[Gnuplot Terminals and LaTeX Integration](https://youtu.be/aiCZh-iLdsE) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/GnuplotTerminals.pdf))
+[Gnuplot Terminals and LaTeX Integration](https://youtu.be/aiCZh-iLdsE)
 
 
 **Python**
 
-[Python scripting for the OS](https://youtu.be/yHO8hdqzKw8) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/PythonOS.pdf))
+[Python scripting for the OS](https://youtu.be/yHO8hdqzKw8)
 
-[numpy - Numerical Python](https://youtu.be/-p4CVtPZoPo) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/numpy.pdf))
+[numpy - Numerical Python](https://youtu.be/-p4CVtPZoPo)
 
-[SciPy - Scientific Toolkit](https://youtu.be/MtdLd2lrvag) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/scipy.pdf))
+[SciPy - Scientific Toolkit](https://youtu.be/MtdLd2lrvag)
 
-[Python Virtual Environments](https://youtu.be/iiNdFuVYWu0) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/pythonVENV.pdf))
+[Python Virtual Environments](https://youtu.be/iiNdFuVYWu0)
 
 
 **Python Plotting**
 
-[Gnuplot.py](https://youtu.be/b_y_cLX526c) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/gnuplot-py.pdf))
+[Gnuplot.py](https://youtu.be/b_y_cLX526c)
 
-[Matplotlib](http://idl.utsa.edu/me5013/matplotlib/) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/matplotlib.pdf))
+[Matplotlib](http://idl.utsa.edu/me5013/matplotlib/)
 
 
 **Using Python with Compiled Libraries**
 
-[ctypes](https://youtu.be/76psQH3W7WU) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/ctypes.pdf))
+[ctypes](https://youtu.be/76psQH3W7WU)
 
-[SWIG](https://youtu.be/g8--GrdlqGw) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/10/swig.pdf))
+[SWIG](https://youtu.be/g8--GrdlqGw)
 
 **Python Parallel Programming (MPI4Py)**
 
-[Introduction to Parallel Programming](https://youtu.be/ZolH7v8kvI8) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/ParallelProgramming.pdf))
+[Introduction to Parallel Programming](https://youtu.be/ZolH7v8kvI8)
 
-[Introduction to MPI](https://youtu.be/Udn9wmmb9YY) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/MPI.pdf))
+[Introduction to MPI](https://youtu.be/Udn9wmmb9YY)
 
 
 **Python Parallel Programming (PyTrilinos)**
 
-[Trilinos & PyTrilinos: An Overview](https://youtu.be/EXc48sLAEQ0) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/TrilinosPyTrilinosOverview1.pdf))
+[Trilinos & PyTrilinos: An Overview](https://youtu.be/EXc48sLAEQ0)
 
-[PyTrilinos: Epetra Maps & Vectors](https://youtu.be/5PjoY5QtgPg) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/EpetraMapsVectors1.pdf))
+[PyTrilinos: Epetra Maps & Vectors](https://youtu.be/5PjoY5QtgPg)
 
-[PyTrilinos: Matrices, Graphs, & Extensions](https://youtu.be/Vyxi10I-QWQ) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/EpetraMatrixGraphExt.pdf))
+[PyTrilinos: Matrices, Graphs, & Extensions](https://youtu.be/Vyxi10I-QWQ)
 
-[PyTrilinos: Isoroppia & Importers/Exporters](https://youtu.be/i6JXviA_aJs) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/IsorropiaImportExport.pdf))
+[PyTrilinos: Isoroppia & Importers/Exporters](https://youtu.be/i6JXviA_aJs)
 
-[PyTrilinos: AztecOO](https://youtu.be/sHBhCVmJ0p8) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/11/AztecOO.pdf))
+[PyTrilinos: AztecOO](https://youtu.be/sHBhCVmJ0p8)
 
 
 **Interactive Parallel Programming (IPython)**
 
-[Parallel Interactivity Debugging with IPython](https://youtu.be/7OKXS5n-k08) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/11/ParallelDebugging.pdf))
+[Parallel Interactivity Debugging with IPython](https://youtu.be/7OKXS5n-k08)
 
-[PyTrilinos & IPython (Jupyter) Notebook](https://youtu.be/i7dyCZNAXDY) ([PDF Slides](http://idl.utsa.edu/me5013/files/2013/12/PyTrilinosIPythonNotebook.pdf))
+[PyTrilinos & IPython (Jupyter) Notebook](https://youtu.be/i7dyCZNAXDY)
 
 
 **GPGPU Programming (PyCuda)**
 
-[GPU Programming with PyCUDA](https://youtu.be/LumJX2gyX9k) ([PDF Slides](http://idl.utsa.edu/me5013/files/2012/12/PyCUDA.pdf))
+[GPU Programming with PyCUDA](https://youtu.be/LumJX2gyX9k)
 
