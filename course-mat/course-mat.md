@@ -178,7 +178,7 @@ and any other reference material.
 
 ## Epetra Maps and Vectors
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/G1PXtQS9leA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/5PjoY5QtgPg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Slides:** [Epetra Maps and Vectors](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=EpetraMapsAndVectors-rise.ipynb)
 
