@@ -8,15 +8,169 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures,
 and any other reference material.
 
-## Video Lectures and "Live Slides"
+# Video Lectures and Live Slides
 
-Click on the button below to launch an index of all video lectures for the course and their corresponding slides.  The slides are launched in a "live" environment, i.e. the code cells are executable.
+## Introduction to Unix
 
-<a href="https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=index-rise.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg" alt="Launch Binder"></a>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/Cz8LNMF3azM" frameborder="0" allowfullscreen ></iframe>
+        
+**Live Slides:** [Basic Unix Commands - Users and System](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-Users_and_System-rise.ipynb)
 
+## Basic Unix Commands - File System Navigation
 
+<iframe width="400" height="300" src="https://www.youtube.com/embed/3_vgwWTo1Vk" frameborder="0" allowfullscreen ></iframe>
 
-## Old Reference Material
+**Slides:** [Basic Unix Commands - File System Navigation](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-FileSystem-rise.ipynb)
+
+## git and Github
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/XupOhni5pTc" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [git and Github](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=git_and_Github-rise.ipynb)
+
+## Basic Unix Commands - Users & System
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/njxYqYw-LVk" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Basic Unix Commands - Users & System](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-Users_and_System-rise.ipynb)
+
+## Basic Unix Commands - File Content Handling
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/PiES7jQxc9U" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Basic Unix Commands - File Content Handling](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-FileContentHandling-rise.ipynb)
+
+## Basic Unix Commands - Pipes & Redirects 
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/pqzBCaRHoEI" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Basic Unix Commands - Pipes & Redirects](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-Pipes_and_Redirects-rise.ipynb)
+
+## Basic Unix Commands - Pipes & Redirects
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/PIbiD6OciI0" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Basic Unix Commands - File Attributes](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-FileAtrributes-rise.ipynb)
+
+## Basic Unix Commands - Find 
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/Hz5SDYM-nDM" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Basic Unix Commands - Find](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-Find-rise.ipynb)
+
+## Basic Unix Commands - Regular Expressions
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/vCuxdmjrWCE" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Basic Unix Commands - Regular Expressions](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-Regular_Expressions-rise.ipynb)
+
+## Basic Unix Commands - grep 
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/VGT2JesUl5s" frameborder="0" allowfullscreen ></iframe> 
+
+**Slides:** [Basic Unix Commands - grep](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BasicUnixCommands-grep-rise.ipynb)
+
+## vi/vim Editor
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/w3Kfb33C3sM" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [vi/vim Editor](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=vi-vim-rise.ipynb)
+
+## Customizing vim
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/7o9qX2bnybA" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Customizing vim](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=CustomizingVim.pdf)
+
+## The Bash Shell
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/79Oh-7KNP2s" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [The Bash Shell](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=BashShell.pdf)
+
+## Customizing Bash
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/mMcYzQkQ3b0" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Customizing Bash](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=CustomizingBash.pdf)
+
+## Branching, merging, and Github Pull Requests
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/3LmPjqGI-x8" frameborder="0" allowfullscreen ></iframe>
+
+## Jupyter Notebooks and Python Functions
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/RlwPBT4Uqhw" frameborder="0" allowfullscreen ></iframe>
+
+**Notebook:** [Jupyter Notebook & Python Functions](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=JupyterNotebook_and_Python_Functions-rise.ipynb)
+
+## Python Lists, Tuples, & Dictonaries
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/NyILHJ0JxqY" frameborder="0" allowfullscreen ></iframe>
+
+## Python Loops & Conditionals
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/1wQTyjPtrlY" frameborder="0" allowfullscreen ></iframe>
+
+## Python Classes & Object-Oriented Programming
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/sOQ-usIoZuQ" frameborder="0" allowfullscreen ></iframe>
+
+## Numpy
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/GHCZOvjXGto" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Numpy](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=Numpy-rise.ipynb)
+
+## Scipy
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/hhDkdPRe01o" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Scipy](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=Scipy-rise.ipynb)
+
+## maplotlib
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/FNJc3ByKpRs" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [matplotlib](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=matplotlib-rise.ipynb)
+
+## SWIG
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/g8--GrdlqGw" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [SWIG](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=swig.pdf)
+
+## CMake
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/1marFAayuDQ" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [CMake](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=CMake-rise.ipynb)
+
+## CFFI
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/EhavJLpGNGM" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [CFFI](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=CFFI-rise.ipynb)
+
+## Introduction to Parallel Programming
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/UcrNPhz9dn4" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Introduction To Parallel Programming](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=IntroductionToParallelProgramming-rise.ipynb)
+
+## Introduction to MPI
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/sld70IZFG60" frameborder="0" allowfullscreen ></iframe>
+
+**Slides:** [Introduction to MPI](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=IntroductionToMPI-rise.ipynb)
+
+## Parallel Debugging & Interactivity with IPython
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/l7e1fRsatOo?rel=0" frameborder="0"  allowfullscreen></iframe>
+
+**Slides:** [Parallel Debugging & Interactivity with IPython](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=ParallelDebuggingWithIPython-rise.ipynb)
+
+# Old Reference Material
 
 **Basic Unix**
 
