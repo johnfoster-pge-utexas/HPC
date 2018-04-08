@@ -170,6 +170,18 @@ and any other reference material.
 
 **Slides:** [Parallel Debugging & Interactivity with IPython](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=ParallelDebuggingWithIPython-rise.ipynb)
 
+## Trilinos and PyTrilinos Overview
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/G1PXtQS9leA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+**Slides:** [Trilinos and PyTrilinos Overview](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=TrilinosAndPyTrilinosOverview-rise.ipynb)
+
+## Epetra Maps and Vectors
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/G1PXtQS9leA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+**Slides:** [Epetra Maps and Vectors](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=EpetraMapsAndVectors-rise.ipynb)
+
 # Old Reference Material
 
 **Basic Unix**
