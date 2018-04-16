@@ -198,7 +198,7 @@ and any other reference material.
 
 <iframe width="400" height="300" src="https://youtu.be/sHBhCVmJ0p8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Slides:** [Epetra Graphs, Matrices, and EpetraExt](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=AztecOO.pdf)
+**Slides:** [AztecOO](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=AztecOO.pdf)
 
 # Old Reference Material
 
