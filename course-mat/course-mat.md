@@ -184,19 +184,19 @@ and any other reference material.
 
 ## Epetra Graphs, Matrices, and EpetraExt
 
-<iframe width="400" height="300" src="https://youtu.be/Vyxi10I-QWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/Vyxi10I-QWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Slides:** [Epetra Graphs, Matrices, and EpetraExt](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=EpetraMatrixGraphExt.pdf)
 
 ## Isorropia and Importers/Exports
 
-<iframe width="400" height="300" src="https://youtu.be/i6JXviA_aJs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/i6JXviA_aJs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Slides:** [Epetra Graphs, Matrices, and EpetraExt](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=IsorropiaImportExport.pdf)
 
 ## AztecOO
 
-<iframe width="400" height="300" src="https://youtu.be/sHBhCVmJ0p8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/sHBhCVmJ0p8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Slides:** [AztecOO](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=AztecOO.pdf)
 
