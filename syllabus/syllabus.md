@@ -46,7 +46,7 @@ As engineers we often encounter problems too large or too difficult to solve in 
 | Apr. 9,11  | Parallel Programming | PyTrilinos |
 | Apr. 16,18 | Parallel Programming | PyTrilinos |
 | Apr. 23,26 | Parallel Programming | IPython, Jupyter notebook |
-| Apr. 30,May 2 | Parallel Programming | GPGPU, PyCuda |
+| Apr. 30,May 2 | Machine Learning | scikit-learn, PyTorch |
 
 
 Additional topics if time allows: Other scientific languages: C/C++
