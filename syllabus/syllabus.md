@@ -13,12 +13,12 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE LRC  
-**Class Time:** MW 9:00 - 10:30 AM  
+**Class Location:** CPE 3.144  
+**Class Time:** T-Th 12:00 - 2:30 PM  
 **Office Hours:** F 9:00 AM - 10:30 PM and by appointment   
 
 **Course Website:** 
-<https://utexas.instructure.com/courses/12196491>
+<https://utexas.instructure.com/courses/1234537>
 
 **Required Text:** None
 
@@ -31,22 +31,21 @@ As engineers we often encounter problems too large or too difficult to solve in 
 
 | Week | Topic | Specifics |
 |------|-------|-----------|
-| Jan. 17 | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Cloud9 |
-| Jan. 22,24 | Git and Github |  |
-| Jan. 29, 31 | Introduction to UNIX | File system, permissions, regular expressions |
-| Feb. 5,7 | Editors | vi, emacs |
-| Feb. 12,14  | Intermediate UNIX | grep, sed, awk, bash scripting, Python scripting for os, customizing environment |
-| Feb. 19,21 | Managing Projects | building code, git, cmake |
-| Feb. 26,28 | Scientific Python | numpy, scipy | 
-| Mar. 5,7   | Scientific Python | matplotlib, LaTeX integration |
-| Mar. 12,14 | Spring Break | N/A |
-| Mar. 19,21 | Scientific Python | Calling other languages from Python, cffi, SWIG |
-| Mar. 26,28 | Parallel Programming | MPI, cluster job submission |
-| Apr. 2,4   | Parallel Programming | MPI, PyTrilinos |
-| Apr. 9,11  | Parallel Programming | PyTrilinos |
-| Apr. 16,18 | Parallel Programming | PyTrilinos |
-| Apr. 23,26 | Parallel Programming | IPython, Jupyter notebook |
-| Apr. 30,May 2 | Machine Learning | scikit-learn, PyTorch |
+| Aug. 30 | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Spindletop |
+| Sept. 4,6 | Git and Github |  |
+| Sept. 11, 13 | Introduction to UNIX | File system, permissions, regular expressions |
+| Sept. 18, 20 | Editors | vi |
+| Sept. 25, 27  | Intermediate UNIX | grep, find, Python scripting, customizing environment |
+| Oct. 2,4 | Managing Projects | building code, git, cmake |
+| Oct. 9,11 | Scientific Python | numpy, scipy | 
+| Oct. 16,18   | Scientific Python | matplotlib, LaTeX integration |
+| Oct. 23,25 | Scientific Python | Calling other languages from Python, cffi, SWIG |
+| Oct. 30,Nov. 1 | Parallel Programming | MPI, cluster job submission |
+| Nov. 6,8   | Parallel Programming | MPI, PyTrilinos |
+| Nov. 13,15  | Parallel Programming | PyTrilinos |
+| Nov. 20,**Thanksgiving** | Parallel Programming | PyTrilinos |
+| Nov. 27,29 | Parallel Programming | IPython, Jupyter notebook |
+| Dec. 4,6 | Machine Learning | scikit-learn, PyTorch |
 
 
 Additional topics if time allows: Other scientific languages: C/C++
