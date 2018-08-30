@@ -14,7 +14,7 @@
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
 **Class Location:** CPE 3.144  
-**Class Time:** T-Th 12:00 - 2:30 PM  
+**Class Time:** T-Th 12:30 - 2:00 PM  
 **Office Hours:** F 9:00 AM - 10:30 PM and by appointment   
 
 **Course Website:** 
