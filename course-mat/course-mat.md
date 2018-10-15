@@ -134,6 +134,12 @@ and any other reference material.
 
 **Slides:** [matplotlib](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=matplotlib-rise.ipynb)
 
+## Numba
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/uZZygEhrGT0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Slides:** [Numba](https://mybinder.org/v2/gh/PGE383-HPC/live_lectures/master?filepath=Numba-rise.ipynb)
+
 ## SWIG
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/g8--GrdlqGw" frameborder="0" allowfullscreen ></iframe>
