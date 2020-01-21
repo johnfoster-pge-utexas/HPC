@@ -14,11 +14,13 @@
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
 **Class Location:** CPE 3.144  
-**Class Time:** T-Th 12:30 - 2:00 PM  
-**Office Hours:** F 9:00 AM - 10:30 PM and by appointment   
+**Class Time:** T-Th 2:00 - 3:30 PM  
+**Office Hours:** By appointment.  **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable. 
 
 **Course Website:** 
-<https://utexas.instructure.com/courses/1234537>
+<https://utexas.instructure.com/courses/1267219>
+
+**Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">https://spindletop.pge.utexas.edu</a>
 
 **Required Text:** None
 
@@ -31,31 +33,32 @@ As engineers we often encounter problems too large or too difficult to solve in 
 
 | Week | Topic | Specifics |
 |------|-------|-----------|
-| Aug. 30 | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Spindletop |
-| Sept. 4,6 | Git and Github |  |
-| Sept. 11, 13 | Introduction to UNIX | File system, permissions, regular expressions |
-| Sept. 18, 20 | Editors | vi |
-| Sept. 25, 27  | Intermediate UNIX | grep, find, Python scripting, customizing environment |
-| Oct. 2,4 | Managing Projects | building code, git, cmake |
-| Oct. 9,11 | Scientific Python | numpy, scipy | 
-| Oct. 16,18   | Scientific Python | matplotlib, LaTeX integration |
-| Oct. 23,25 | Scientific Python | Calling other languages from Python, cffi, SWIG |
-| Oct. 30,Nov. 1 | Parallel Programming | MPI, cluster job submission |
-| Nov. 6,8   | Parallel Programming | MPI, PyTrilinos |
-| Nov. 13,15  | Parallel Programming | PyTrilinos |
-| Nov. 20,**Thanksgiving** | Parallel Programming | PyTrilinos |
-| Nov. 27,29 | Parallel Programming | IPython, Jupyter notebook |
-| Dec. 4,6 | Machine Learning | scikit-learn, PyTorch |
+| Jan. 21, 23 | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Spindletop |
+| Jan. 28,30 | Git and Github |  |
+| Feb. 4,6 | Introduction to UNIX | File system, permissions, regular expressions |
+| Feb. 11,13 | Editors | vi |
+| Feb. 18,20  | Intermediate UNIX | grep, find, Python scripting, customizing environment |
+| Feb. 25,27 | Managing Projects | building code, git, cmake |
+| Mar. 3,5 | Scientific Python | numpy, scipy | 
+| Mar. 10,12   | Scientific Python | matplotlib, LaTeX integration |
+| Mar. 17,19 | **Spring Break** |  |
+| Mar. 24,26 | Scientific Python | Calling other languages from Python, cffi, SWIG |
+| Mar. 31,Apr. 2 | Parallel Programming | MPI, cluster job submission |
+| Apr. 7,9   | Parallel Programming | MPI, PyTrilinos |
+| Apr. 14,16  | Parallel Programming | PyTrilinos |
+| Apr. 21,23 | Parallel Programming | PyTrilinos |
+| Nov. 28,30 | Parallel Programming | IPython, Jupyter notebook |
+| May 5,7 | Machine Learning | scikit-learn, PyTorch |
 
 
 Additional topics if time allows: Other scientific languages: C/C++
 
 **Grading:**
 
- * Codecademy course completion - 10%
+ * Codecademy course completion - 5%
     * This grade will be given entirely based on completing the assigned modules on time.
  * Video lecture quizzes - 20%
- * In-class exercises - 30%
+ * In-class exercises - 35%
     * These will be exercises performed on the computer, in-class, with the guidance of the instructor. Additional out-of-class time may be required to finish exercises not completed in-class.
  * Assigned projects - 40%
     * These will be longer exercises that may be started or worked on in-class, but will require out-of-class time to complete.
