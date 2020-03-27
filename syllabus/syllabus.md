@@ -42,12 +42,12 @@ As engineers we often encounter problems too large or too difficult to solve in 
 | Mar. 3,5 | Scientific Python | numpy, scipy | 
 | Mar. 10,12   | Scientific Python | matplotlib, LaTeX integration |
 | Mar. 17,19 | **Spring Break** |  |
-| Mar. 24,26 | Scientific Python | Calling other languages from Python, cffi, SWIG |
-| Mar. 31,Apr. 2 | Parallel Programming | MPI, cluster job submission |
-| Apr. 7,9   | Parallel Programming | MPI, PyTrilinos |
-| Apr. 14,16  | Parallel Programming | PyTrilinos |
-| Apr. 21,23 | Parallel Programming | PyTrilinos |
-| Nov. 28,30 | Parallel Programming | IPython, Jupyter notebook |
+| Mar. 24,26 | **Extened Spring Break due to COVID-19** |  |
+| Mar. 31,Apr. 2 | Scientific Python | Calling other languages from Python, cffi, SWIG |
+| Apr. 7,9 | Parallel Programming | MPI, cluster job submission |
+| Apr. 14,16   | Parallel Programming | MPI, PyTrilinos |
+| Apr. 21,23  | Parallel Programming | PyTrilinos |
+| Apr. 28,30 | Parallel Programming | PyTrilinos |
 | May 5,7 | Machine Learning | scikit-learn, PyTorch |
 
 
