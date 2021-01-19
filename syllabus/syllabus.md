@@ -13,12 +13,12 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.144  
+**Class Location:** Online
 **Class Time:** T-Th 2:00 - 3:30 PM  
 **Office Hours:** By appointment.  **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable. 
 
 **Course Website:** 
-<https://utexas.instructure.com/courses/1267219>
+<https://utexas.instructure.com/courses/1299272>
 
 **Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">https://spindletop.pge.utexas.edu</a>
 
@@ -33,22 +33,21 @@ As engineers we often encounter problems too large or too difficult to solve in 
 
 | Week | Topic | Specifics |
 |------|-------|-----------|
-| Jan. 21, 23 | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Spindletop |
-| Jan. 28,30 | Git and Github |  |
-| Feb. 4,6 | Introduction to UNIX | File system, permissions, regular expressions |
-| Feb. 11,13 | Editors | vi |
-| Feb. 18,20  | Intermediate UNIX | grep, find, Python scripting, customizing environment |
-| Feb. 25,27 | Managing Projects | building code, git, cmake |
-| Mar. 3,5 | Scientific Python | numpy, scipy | 
-| Mar. 10,12   | Scientific Python | matplotlib, LaTeX integration |
-| Mar. 17,19 | **Spring Break** |  |
-| Mar. 24,26 | **Extened Spring Break due to COVID-19** |  |
-| Mar. 31,Apr. 2 | Scientific Python | Calling other languages from Python, cffi, SWIG |
-| Apr. 7,9 | Parallel Programming | MPI, cluster job submission |
-| Apr. 14,16   | Parallel Programming | MPI, PyTrilinos |
-| Apr. 21,23  | Parallel Programming | PyTrilinos |
-| Apr. 28,30 | Parallel Programming | PyTrilinos |
-| May 5,7 | Machine Learning | scikit-learn, PyTorch |
+| 1    | Introduction to HPC and UNIX | Syllabus, Codecademy, Github, Spindletop |
+| 2    | Git and Github |  |
+| 3    | Introduction to UNIX | File system, permissions, regular expressions |
+| 4    | Editors | vi |
+| 5    | Intermediate UNIX | grep, find, Python scripting, customizing environment |
+| 6    | Managing Projects | building code, git, cmake |
+| 7    | Scientific Python | numpy, scipy | 
+| 8    | Scientific Python | matplotlib, LaTeX integration |
+| 9    | Scientific Python | Calling other languages from Python, cffi, numba, SWIG |
+| 10   | Scientific Python | jax, automatic differentation |
+| 11   | Parallel Programming | MPI, cluster job submission |
+| 12   | Parallel Programming | MPI, PyTrilinos |
+| 13   | Parallel Programming | PyTrilinos |
+| 14   | Parallel Programming | PyTrilinos |
+| 15   | Machine Learning | scikit-learn, PyTorch |
 
 
 Additional topics if time allows: Other scientific languages: C/C++
