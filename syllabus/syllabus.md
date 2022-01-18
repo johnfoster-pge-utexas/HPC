@@ -9,16 +9,16 @@
 ## PGE 383 - High Performance Computing for Engineers
 
 **Instructor:** John T. Foster, Ph.D.  
-**Office:** PGE 3.108  
+**Office:** POB 5.118  
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** Online
-**Class Time:** T-Th 2:00 - 3:30 PM  
-**Office Hours:** By appointment.  **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable. 
+**Class Location:** CPE 3.114
+**Class Time:** T-Th 3:30 - 5:30 PM  
+**Office Hours:** W 11:00 AM - 12:00 PM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password given in class)  and by appointment.  **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable. 
 
 **Course Website:** 
-<https://utexas.instructure.com/courses/1299272>
+<https://utexas.instructure.com/courses/1333846>
 
 **Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">https://spindletop.pge.utexas.edu</a>
 
@@ -37,34 +37,31 @@ As engineers we often encounter problems too large or too difficult to solve in 
 | 2    | Git and Github |  |
 | 3    | Introduction to UNIX | File system, permissions, regular expressions |
 | 4    | Editors | vi |
-| 5    | Intermediate UNIX | grep, find, Python scripting, customizing environment |
-| 6    | Managing Projects | building code, git, cmake |
-| 7    | Scientific Python | numpy, scipy | 
-| 8    | Scientific Python | matplotlib, LaTeX integration |
-| 9    | Scientific Python | Calling other languages from Python, cffi, numba, SWIG |
-| 10   | Scientific Python | jax, automatic differentation |
+| 5    | Intermediate UNIX | grep, find, customizing environment |
+| 6    | Managing Projects | building code, cmake |
+| 7    | Scientific computing | Introduction to Julia, DifferentialEquations.jl | 
+| 8    | Scientific computing | Plots.jl, LaTeX integration |
+| 9    | Scientific computing | PyCall, automatic differentation, Flux.jl |
+| 10   | Scientific computing | DifferentialEquations.jl, ModelingToolkit.jl  |
 | 11   | Parallel Programming | MPI, cluster job submission |
-| 12   | Parallel Programming | MPI, PyTrilinos |
-| 13   | Parallel Programming | PyTrilinos |
-| 14   | Parallel Programming | PyTrilinos |
-| 15   | Machine Learning | scikit-learn, PyTorch |
+| 12   | Parallel Programming | MPI, MPI.jl |
+| 13   | Parallel Programming | PETSc.jl |
+| 14   | Parallel Programming | PETSc.jl |
+| 15   | Machine Learning | package manager, environments |
 
 
 Additional topics if time allows: Other scientific languages: C/C++
 
 **Grading:**
 
- * Codecademy course completion - 5%
-    * This grade will be given entirely based on completing the assigned modules on time.
  * Video lecture quizzes - 20%
- * In-class exercises - 35%
+ * In-class exercises - 40%
     * These will be exercises performed on the computer, in-class, with the guidance of the instructor. Additional out-of-class time may be required to finish exercises not completed in-class.
  * Assigned projects - 40%
     * These will be longer exercises that may be started or worked on in-class, but will require out-of-class time to complete.
 
 
 **Grade Assignment**
-
 
 |Range|Grade|
 |-|-|
