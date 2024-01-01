@@ -18,7 +18,7 @@
 **Office Hours:** W 11:00 AM - 12:00 PM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password given in class)  and by appointment.  **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable. 
 
 **Course Website:** 
-<https://utexas.instructure.com/courses/1353241>
+<https://utexas.instructure.com/courses//1380617>
 
 **Required Text:** None
 
